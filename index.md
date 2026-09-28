@@ -1,7 +1,7 @@
 # Project Directory
 
 ## Data Science Project One (Complete)
-[NFL Safety Usage Visualization](https://trace-winkler.github.io/project1/)
+[NFL Safety Usage Visualization](https://trace-winkler.github.io/dtscproject1/)
 
 ## Computer Science Project One (In-Progress)
 
