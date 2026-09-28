@@ -1,0 +1,12 @@
+# Project Directory
+
+## Data Science Project One (Complete)
+[NFL Safety Usage Visualization](https://trace-winkler.github.io/project1/)
+
+## Computer Science Project One (In-Progress)
+
+## Data Science Project Two (In-Progress)
+
+
+### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
+### Check out my [Blog](https://trace-winkler.github.io/blog/)
